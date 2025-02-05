@@ -1,0 +1,33 @@
+{
+  // "extends": "tsconfig.json",
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "target": "esnext", // Target modern JavaScript
+    "module": "esnext", // Use ES modules
+    "jsx": "react", // Enable JSX support
+    "strict": true, // Enable strict mode
+    "esModuleInterop": true, // Allow default imports for CommonJS modules
+    "forceConsistentCasingInFileNames": true, // Enforce file name consistency
+    "moduleResolution": "node", // Resolve modules using Node.js
+    "skipLibCheck": true, // Skip type checking for declaration files for faster builds
+    "noEmit": true, // Do not emit compiled files
+    "isolatedModules": true, // Required for React Native
+    "allowSyntheticDefaultImports": true, // Allow default imports from non-ES modules
+    "resolveJsonModule": true, // Enable importing JSON files
+    "baseUrl": ".", // Base directory for module resolution
+    "types": ["expo"], // Include Expo types
+    "paths": {
+      "@components/*": ["src/components/*"], // Custom path aliases
+      "@screens/*": ["src/screens/*"],
+      "@assets/*": ["src/assets/*"]
+    }
+  },
+
+  "exclude": [
+    "node_modules",
+    "babel.config.js",
+    "metro.config.js",
+    "jest.config.js"
+  ],
+  "include": ["**/*.ts", "**/*.tsx", ".expo/types/**/*.ts", "expo-env.d.ts"]
+}
