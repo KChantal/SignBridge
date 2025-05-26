@@ -1,36 +1,24 @@
 # Contributing to SignBridge
 
-Thank you for considering contributing to SignBridge! We're excited to collaborate with you. Below are some guidelines to help you get started.
+Thank you for checking out SignBridge!
 
-## How to Contribute
+This project is currently no longer **accepting external contributions** 🚧
 
-1. **Report Bugs:**
-   - Check existing issues to ensure it hasn’t been reported.
-   - Open a new issue with a clear title and description.
-   - Include steps to reproduce, expected behavior, and environment details.
+It’s publicly visible because I believe in the spirit of building great things in the open — and in order to welcome any thoughtful ideas and feedback from the developer community 🎨  
+(See below for more on this)
 
-2. **Suggest Features:**
-   - Open a new issue labeled `enhancement`.
-   - Clearly describe the feature and its use case.
+🏗️
 
-3. **Submit Changes:**
-   - Fork the repository and clone it locally.
-   - Create a branch for your change: `git checkout -b feature/your-feature-name`.
-   - Commit your changes: `git commit -m "Add your message here"`.
-   - Push to your fork: `git push origin feature/your-feature-name`.
-   - Open a pull request:
-     - Clearly explain what your change does.
-     - Link it to the relevant issue if applicable.
+SignBridge is still in the early stages of development and ideation. I’m currently conducting user research, and actively collaborating with members of the D/deaf and hard-of-hearing community to ensure the product is built _with_ and _for_ its core users.
 
-## Code Guidelines
+This means feature direction, technical decisions, and community input are being shaped carefully, based on real needs — not assumptions.
 
-- Follow the existing code style and structure.
-- Include comments where needed for clarity.
-- Write tests for new features or fixes.
+---
 
-## Development Setup
+👥
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/projectname.git
-   cd projectname
+If you’re a developer, designer, researcher, or someone with relevant insight and a genuine interest in the mission, your ideas and feedback are very welcome! 💡
+
+Please feel free to open an issue or get in touch!
+
+– K.
