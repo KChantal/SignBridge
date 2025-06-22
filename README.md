@@ -6,7 +6,7 @@
 
 SignBridge is an early-stage project being developed in close collaboration with members of the D/deaf and hard-of-hearing community.
 
-With key focus is on accessibility, real usability, and inclusion, and true, lived experience at the very heart of the process, and a vital part of any development of the app.
+With key focus on accessibility, real usability, inclusion, and true, lived experience at the very heart of the process, and a vital part of any development of the app.
 
 Feedback and ideas are welcome - please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for more information.
 

@@ -4,7 +4,7 @@ Thank you for checking out SignBridge!
 
 This project is currently no longer **accepting external contributions** 🚧
 
-It’s publicly visible because I believe in the spirit of building great things in the open — and in order to welcome any thoughtful ideas and feedback from the developer community 🎨  
+It’s publicly visible as I believe in the spirit of building great things in the open — and in order to welcome any thoughtful ideas and feedback from the developer community 🎨  
 (See below for more on this)
 
 🏗️
