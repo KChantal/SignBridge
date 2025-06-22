@@ -11,7 +11,7 @@ It’s publicly visible because I believe in the spirit of building great things
 
 SignBridge is still in the early stages of development and ideation. I’m currently conducting user research, and actively collaborating with members of the D/deaf and hard-of-hearing community to ensure the product is built _with_ and _for_ its core users.
 
-This means feature direction, technical decisions, and community input are being shaped carefully, based on real needs — not assumptions.
+This means feature direction, technical decisions, and community input are being shaped carefully, based on real needs.
 
 ---
 
