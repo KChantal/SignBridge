@@ -8,7 +8,7 @@ SignBridge is an early-stage project being developed in close collaboration with
 
 With key focus on accessibility, real usability, inclusion, and true, lived experience at the very heart of the process, and a vital part of any development of the app.
 
-Feedback and ideas are welcome - please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for more information.
+Feedback, ideas, opening issues, and PRs are welcome - please refer to [CONTRIBUTING.md](./CONTRIBUTING.md) for more information.
 
 _Currently focused on support for British English/BSL (British Sign Language), with plans to expand to, and support, ASL, and additional sign languages in the future_
 
@@ -21,4 +21,4 @@ _Currently focused on support for British English/BSL (British Sign Language), w
 
 ---
 
-⚠️ **License**: This project is not open source. See [LICENSE.txt](./LICENSE.txt) for details.
+💡 Contributions and ideas welcome for Hacktoberfest contributions, issues, and PRs 💡
